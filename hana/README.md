@@ -1,7 +1,10 @@
 mimic-cookbook
 ==============
 
-Cookbook of sql scripts for MIMIC-II
+Cookbook of SQL scripts for MIMIC-II using SAP HANA platform
+
+Check out full repository at 
+https://github.com/sapresearch/MIMIC_SQL
 
 List of functions
 - Age (age.sql)
