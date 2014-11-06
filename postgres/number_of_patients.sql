@@ -1,0 +1,1 @@
+select count(*) from mimic2v25.d_patients
